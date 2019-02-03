@@ -42,7 +42,7 @@ How to install
 - Extract the file on your local server folder. This is usually the 'www' OR 'htdocs' folder in your drive C:\
 - Launch your local server. this can be any whether WAMP or XAMPP. Or any other
 - Go to http://localhost/phpmyadmin
-- Create database named 'lantub' on your local server.
+- Create database named 'lantube' on your local server.
 - Import 'db.sql' from the databse folder.
 	This will create a table named 'videos'. this table will collect 'id' of the video uploaded, the 'name' and the location of the file.
 - Now all is almost done, just one thing left. We have to increase the maximum POST FILE SIZE and UPLOAD FILE SIZE. generally they are set by default to 8M and 2M for XAMPP respectively.
