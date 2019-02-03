@@ -6,7 +6,7 @@ LAN Tube is an Open Source Youtube like web app for your home network.
 
 Technologies
 
-- Bootstrap 3
+- Bootstrap 4
 - PHP 5
 - HTML 5
 - MySQL
@@ -17,14 +17,14 @@ Please feel free do use the souce code to any purpose and please any contributio
 
 	Home page:
 
-![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/home.PNG)
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/home.JPG)
  
 	Upload section:
 
-![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/uploads.PNG)
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/upload%20video.JPG)
 
 	LAN Share section:
-![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/LAN%20Share.PNG)
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/share%20files.JPG)
 
 LAN Tube is easy to install on your local server
 
