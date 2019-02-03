@@ -26,6 +26,16 @@ Please feel free do use the souce code to any purpose and please any contributio
 	LAN Share section:
 ![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/share%20files.JPG)
 
+
+Search video:
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/searchvideo.JPG)
+
+Quick upload video:
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/direct%20upload.JPG)
+
+Streaming video:
+![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/viewing%20video.JPG)
+
 LAN Tube is easy to install on your local server
 
 How to install
