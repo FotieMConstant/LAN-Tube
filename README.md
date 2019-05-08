@@ -62,8 +62,8 @@ How to connect LAN Tube from another device.
 - On the server machine open comand prompt and type 'ipconfig' to get the ip address of the server computer.
 - The ip address is IPv4 Address. . . . . . . . . . . : XXX.XXX.X.XXX.
 - Use this ip on the other devices and you are set to go...
-
+  
+  ENJOY!!!
 
 	  Any thing you'll love to see in the next update? Mail : fotiemoghommahieconstant@gmail.com
-	  
-	   ENJOY!!!
+
