@@ -49,7 +49,7 @@ How to install
 	
 	- Look for the file 'php.ini' and increase the file size to the max you whish to have(E.g 2048MB). this file i generally found in 'C:\xampp\php' directory for XAMPP.
 	- Once ther open the file and search for 'post_max_size' and 'upload_max_filesize'. You can now start editing.
-	- Restart your saver.
+	- Restart your server.
 - Launch the website and enjoy!
 
 
@@ -63,4 +63,7 @@ How to connect LAN Tube from another device.
 - The ip address is IPv4 Address. . . . . . . . . . . : XXX.XXX.X.XXX.
 - Use this ip on the other devices and you are set to go...
 
-           ENJOY!!!
+
+	  Any thing you'll love to see in the next update? Mail : fotiemoghommahieconstant@gmail.com
+	  
+	   ENJOY!!!
