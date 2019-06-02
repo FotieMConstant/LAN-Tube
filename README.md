@@ -16,7 +16,6 @@ Please feel free do use the souce code to any purpose and please any contributio
 
 
 	Home page:
-![Image](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/home.JPG)
 
 ![ScreenShot](https://github.com/FotieMConstant/LAN-Tube/blob/master/screenshots/home.JPG)
  
