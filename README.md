@@ -1,7 +1,7 @@
 # LAN-Tube
 LAN Tube is an Open Source Youtube like web app for your home network. 
 
-![logo](https://user-images.githubusercontent.com/42372656/46865186-7a38a300-ce14-11e8-882a-1a6b790fd434.png)
+![logo](https://user-images.githubusercontent.com/42372656/60809245-1dd79980-a182-11e9-9143-7e11995148be.png)
 
 
 Technologies
