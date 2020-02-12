@@ -3,7 +3,7 @@ LAN Tube is an Open Source Youtube like web app for your home network.
 
 ![logo](https://user-images.githubusercontent.com/42372656/60809245-1dd79980-a182-11e9-9143-7e11995148be.png)
 
-Note: The Messaging Module for this web app is available here: <a href="https://github.com/FotieMConstant/LAN-Messaging">LAN-Messaging</a>
+Note: The Messaging Module for this web app is available here: <a href="https://github.com/FotieMConstant/LAN-Messaging" target="_BLANK">LAN-Messaging</a>
 
 
 Technologies
