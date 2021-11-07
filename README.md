@@ -67,4 +67,4 @@ How to connect LAN Tube from another device.
   
   ENJOY!!!
 
-	  Any thing you'll love to see in the next update? Mail : fotiecodes@outlook.com
+	  Any thing you'll love to see in the next update? Mail : fotiecodes@gmail.com
